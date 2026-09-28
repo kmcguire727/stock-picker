@@ -4,6 +4,8 @@ Given an array of daily stock prices, returns the best day to buy and the
 best day to sell for maximum profit. Solution to The Odin Project's
 [Stock Picker](https://www.theodinproject.com/lessons/ruby-stock-picker) exercise.
 
+Code, comments, and rspec tests 100% human (🙋‍♂️) written. README and test cases were assisted by Claude.
+
 ## Usage
 
 ```ruby
